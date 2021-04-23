@@ -2,4 +2,4 @@
 
 スクレイピングした情報を元にクールごとの一覧を自動生成
 
-<img src="spring_2021.jpg">
+<img src="spring_2021.jpg" width="30%" height="30%">
